@@ -1,4 +1,10 @@
 # Marching-Cubes
+
+
+![Images](F1.png)
+![Images](F2.png)
+
+
 Marching Cubes is an algorithm used to create a three-dimensional surface mesh from a set of 3D points or a data set. The algorithm works by dividing the data into small cubes and evaluating a scalar function at each vertex of every cube. Based on the function values at the vertices and an isosurface value, the algorithm generates a surface for each cube. 
 
 The language used for this assignment is C++ with the testing/programming done on an Ubuntu VM. To run the file in the vm, the following command was used:
