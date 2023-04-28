@@ -1,8 +1,11 @@
 # Marching-Cubes
 
 
-![F1](Images/F1.png)
-![F2](Images/F2.png)
+<p float="left">
+  <img src="Images/F1.png" width="400" />
+  <img src="Images/F2.png" width="400" /> 
+</p>
+
 
 
 Marching Cubes is an algorithm used to create a three-dimensional surface mesh from a set of 3D points or a data set. The algorithm works by dividing the data into small cubes and evaluating a scalar function at each vertex of every cube. Based on the function values at the vertices and an isosurface value, the algorithm generates a surface for each cube. 
