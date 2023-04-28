@@ -1,4 +1,6 @@
-# Marching-Cubes
+<h1 align="center" style="color: blue;">Marching Cubes</h1>
+
+
 
 
 
@@ -15,13 +17,13 @@ The language used for this project is C++ with the testing/programming done on a
 
 The program uses two 3D Scalar Field functions:
 
-<p float="left">
+<p align="center">
   <img src="Images/F1.png" width="400" height="400" />
   <br />
   <em>F1: y-sin(x)cos(z)</em>
 </p>
 
-<p float="left">
+<p align="center">
  <img src="Images/F2.png" width="400" height="400" /> 
   <br />
   <em>F2: x^2 - y^2 - z^2 -z </em>
