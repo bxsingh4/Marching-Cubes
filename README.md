@@ -3,7 +3,7 @@
 
 <p float="left">
   <img src="Images/F1.png" width="400" />
-  <img src="Images/F2.png" width="400" /> 
+  <img src="Images/F2.png" width="350" /> 
 </p>
 
 
