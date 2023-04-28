@@ -1,11 +1,6 @@
 # Marching-Cubes
 
 
-<p float="left">
-  <img src="Images/F1.png" width="400" height="400" />
-  <img src="Images/F2.png" width="400" height="400" /> 
-</p>
-
 
 
 Marching Cubes is an algorithm used to create a three-dimensional surface mesh from a set of 3D points or a data set. The algorithm works by dividing the data into small cubes and evaluating a scalar function at each vertex of every cube. Based on the function values at the vertices and an isosurface value, the algorithm generates a surface for each cube. 
@@ -20,8 +15,21 @@ The language used for this assignment is C++ with the testing/programming done o
 
 The program uses two 3D Scalar Field functions:
 
-F1: y-sin(x)cos(z)
-F2: x^2 - y^2 - z^2 -z
+<p float="left">
+  <img src="Images/F1.png" width="400" height="400" />
+  <br />
+  <em>F1: y-sin(x)cos(z)</em>
+</p>
+
+<p float="left">
+ <img src="Images/F2.png" width="400" height="400" /> 
+  <br />
+  <em>F2: x^2 - y^2 - z^2 -z </em>
+</p>
+
+
+
+
 
 
 
